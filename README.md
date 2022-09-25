@@ -14,4 +14,4 @@ Para la solución de este laboratorio realizamos la creación de tres clases nue
 
 ![Imagen](https://github.com/Art2416/Lab04/blob/master/img/OS.jpg)
 
-![Imagen](https://github.com/Art2416/Lab04/blob/master/img/PBSS.jpg)
+![Imagen](https://github.com/Art2416/Lab04/blob/master/img/PBS.jpg)
